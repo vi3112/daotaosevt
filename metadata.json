@@ -1,0 +1,7 @@
+{
+  "name": "AI Luyện Nói OPIc 20250930",
+  "description": "Một ứng dụng phỏng vấn luyện nói theo cấu trúc OPIc, sử dụng AI để đặt câu hỏi, nhận diện giọng nói (STT), đọc câu hỏi (TTS), và đưa ra nhận xét chi tiết để giúp người dùng cải thiện kỹ năng nói.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
